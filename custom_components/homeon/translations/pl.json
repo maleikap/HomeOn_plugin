@@ -1,0 +1,22 @@
+{
+  "title": "HomeOn Automation",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Połączenie z HomeOn",
+        "description": "Wprowadź adres sieciowy serwera WebSocket HomeOn.",
+        "data": {
+          "host": "Nazwa hosta lub adres IP",
+          "port": "Port WebSocket"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Nie można połączyć się ze sterownikiem HomeOn.",
+      "unknown": "Wystąpił nieoczekiwany błąd. Sprawdź dziennik Home Assistant."
+    },
+    "abort": {
+      "already_configured": "Ten sterownik HomeOn jest już skonfigurowany."
+    }
+  }
+}

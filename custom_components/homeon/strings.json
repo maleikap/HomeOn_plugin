@@ -1,0 +1,22 @@
+{
+  "title": "HomeOn Automation",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to HomeOn",
+        "description": "Enter the network address of the HomeOn WebSocket server.",
+        "data": {
+          "host": "Host or IP address",
+          "port": "WebSocket port"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Unable to connect to the HomeOn controller.",
+      "unknown": "Unexpected error. Check the Home Assistant log."
+    },
+    "abort": {
+      "already_configured": "This HomeOn controller is already configured."
+    }
+  }
+}
