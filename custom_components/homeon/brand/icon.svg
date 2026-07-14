@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="512"
+     height="512"
+     viewBox="0 0 512 512"
+     role="img"
+     aria-labelledby="title">
+  <title id="title">HomeOn</title>
+
+  <g transform="translate(41 93) scale(1.48)">
+    <g fill="none"
+       stroke="#303640"
+       stroke-width="16"
+       stroke-linecap="square"
+       stroke-linejoin="miter">
+      <path d="M9 75 L151 9 L291 75"/>
+      <path d="M51 65 L58 171 H248 L254 65"/>
+    </g>
+
+    <g fill="none"
+       stroke-linecap="round"
+       stroke-linejoin="round">
+      <g stroke="#2467c9" stroke-width="9">
+        <circle cx="115" cy="105" r="16"/>
+        <path d="M115 121 L115 166"/>
+        <path d="M108 126 L108 166"/>
+      </g>
+
+      <g stroke="#2467c9" stroke-width="9">
+        <circle cx="154" cy="67" r="16"/>
+        <path d="M154 83 L154 166"/>
+        <path d="M147 91 L147 166"/>
+      </g>
+
+      <g stroke="#303640" stroke-width="9">
+        <circle cx="205" cy="96" r="16"/>
+        <path d="M205 112 L205 166"/>
+        <path d="M198 118 L198 166"/>
+      </g>
+    </g>
+  </g>
+</svg>
