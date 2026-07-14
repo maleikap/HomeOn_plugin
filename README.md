@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="brand/homeon-logo.svg" alt="HomeOn" width="600">
+</p>
+
+<p align="center">
+  Integracja HomeOn Automation dla Home Assistant
+</p>
+
+---
+
 # HomeOn Automation for Home Assistant
 
 Custom Home Assistant integration for a HomeOn controller connected through a local WebSocket server.
